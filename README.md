@@ -2,7 +2,9 @@
 
 My Impelementation of a code-along tutorial that was part of [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course on Udemy, the app was built with React.js including api node to a firbase database.
 
-The app enables anyone to see quoates or add a new ones.
+The app enables anyone to see quoates or add a new ones. Quoates can be veiewed:
+- in list form which can be sorted in ascending (oldest to newst) or descending (newest to oldest).
+- in detailed/fullscreen view which enables interacting to it by adding comments.
 
 ## Notes
 
