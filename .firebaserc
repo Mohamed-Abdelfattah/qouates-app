@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mohamed-personal-porjects"
+  },
+  "targets": {
+    "mohamed-personal-porjects": {
+      "hosting": {
+        "quotes": [
+          "mohamed-quotes-app"
+        ]
+      }
+    }
+  }
+}
