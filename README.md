@@ -12,7 +12,7 @@ The project was meant to be a demonstration/practice/application for the usage o
 
 ## Usage
 
-#### Link for the live version: [Great Quoates](https://mohamed-quotes-app.web.app/quotes)
+#### Link for the live version: [Great Quotes](https://mohamed-quotes-app.web.app/quotes)
 Install dependencies via npm:
 `npm install`
 and then:
